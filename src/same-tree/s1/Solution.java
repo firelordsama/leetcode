@@ -1,5 +1,6 @@
-package same-tree.s1
 /**
+ * 100. 相同的树
+ *
  * Definition for a binary tree node.
  * public class TreeNode {
  *     int val;

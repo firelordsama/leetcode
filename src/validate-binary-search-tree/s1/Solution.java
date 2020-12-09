@@ -1,6 +1,6 @@
-package validate-binary-search-tree.s1
-
 /**
+ * 101. 对称二叉树
+ *
  * Definition for a binary tree node.
  * public class TreeNode {
  *     int val;
